@@ -6,4 +6,4 @@ Unfortunately, you cannot play any music using this application. However, I have
 
 This is a project I completed in my senior year of highschool for a computer science class. Here is a demo video I whipped together last minute.
 
-[https://drive.google.com/file/d/1D-SgBtPE3KvzwU5C79lBgxg8bUzt-hTY/view?usp=sharing]([url](https://drive.google.com/file/d/1D-SgBtPE3KvzwU5C79lBgxg8bUzt-hTY/view?usp=sharing))
+[https://drive.google.com/file/d/1D-SgBtPE3KvzwU5C79lBgxg8bUzt-hTY/view?usp=sharing](https://drive.google.com/file/d/1D-SgBtPE3KvzwU5C79lBgxg8bUzt-hTY/view?usp=sharing)
